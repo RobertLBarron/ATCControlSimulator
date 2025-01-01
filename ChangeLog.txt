@@ -1,0 +1,17 @@
+2021-06-03 Marek M. Cel <marekcel@marekcel.pl>
+
+    * major reorganization
+
+
+
+2018-04-21 Marek M. Cel <marekcel@marekcel.pl>
+
+    * ILS identification and distance added to PFD
+
+
+
+2015-11-18 Marek M. Cel <marekcel@marekcel.pl>
+
+    * navigation display widget added
+    
+    * minor changes in primary flight display widget

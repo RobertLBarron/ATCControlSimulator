@@ -1,0 +1,20 @@
+// 8 fields end with ';'
+// file#, turn_dir,heading,altitude,speed, radio_freq,beacons,file name;
+10,       L,        050,    6000,   null,  null,      null,   atc_seattle_10.mp3;
+11,    null,        010,    null,   null,  null,      null,   atc_seattle_11.mp3;
+12,       R,        070,    null,   null,  null,      null,   atc_seattle_12.mp3;
+13,       R,        180,    null,   null,  null,      null,   atc_seattle_13.mp3;
+14,    null,       null,    3000,    170,  null,     SODoE,   atc_seattle_14.mp3;
+15,    null,        null,   null,    160,  null,     SODoE,   atc_seattle_15.mp3;
+16,    null,        null,   null,   null,  null,      null,   atc_seattle_16_9-09_2500.mp3;
+17,    null,        null,   null,   null, 119.9,      null,   atc_seattle_17.mp3;
+18,    null,        null,   null,   null,  null,      null,   atc_seattle_18.mp3;
+19,    null,        null,   null,   null,  null,      null,   atc_seattle_19.mp3;
+20,    null,        null,   null,   null,  null,      null,   atc_seattle_20_10-56_1000.mp3;
+21,    null,        null,   null,   null,  null,      null,   atc_seattle_21_11-29_100above.mp3;
+22,    null,        null,   null,   null,  null,      null,   atc_seattle_22_11-33_300.mp3;
+23,    null,        null,   null,   null,  null,      null,   atc_seattle_23_11-37_minimum.mp3;
+24,    null,        null,   null,   null,  null,      null,   atc_seattle_24_11-45_100.mp3;
+25,    null,        null,   null,   null,  null,      null,   atc_seattle_25_11-49_50toRetard.mp3;
+26,    null,        null,   null,   null,  null,      null,   atc_seattle_26_taxi.mp3;
+
