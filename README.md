@@ -27,12 +27,6 @@ Project consists of Qt flights instruments library and an example Qt GUI applica
 
 Both flight instruments library and an example application are intended to be built with ```qmake```. There are appropriate Qt Creator project files. Flight instruments library is located in the ```src/qfi/``` directory, it includes source code files, Qt Creator ```pri``` file, Qt Resource Compiler ```qrc``` file and instruments graphics files.
 
-```example1.pro``` project file is intended to build an example application and incorporates instruments library with static linking.
-
-```example2.pro``` project file is intended to build an example application and link to dynamic shared object containing instruments library.
-
-Both projects share the same source code.
-
 ```libqfi.pro``` project files allows to create dynamic shared object containing instruments library.
 
 ### Creating simple Qt application video
@@ -43,3 +37,9 @@ Both projects share the same source code.
 
 Visit [http://marekcel.pl/qflightinstruments](http://marekcel.pl/qflightinstruments) for more information.
 # ATCControlSimulator
+
+I, Robert LaChausse, did not draw the dynamic tools. I merely used Marek M. Cel's base creation and expanded greatly, including adding audio instructions, resource files, working intuitive UI elements, a validation system, and more. This was turned the project from a
+visual air traffic simulator to a controllable air traffic simulator. Big thanks to my professor for bringing Mareks base to attention and encouraging use of QT in lecture.
+
+Final Score on project: 56/33, 170%. 
+Final Score in class: A, 99%.
